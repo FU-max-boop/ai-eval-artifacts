@@ -8,6 +8,10 @@ A small portfolio of AI evaluation artifacts built around one habit:
 The artifacts are deliberately compact. Each one has a quickstart, smoke test,
 result card, and a sentence about what the evidence does **not** prove.
 
+For a concise overview aimed at research-engineering internships or research
+collaborations, see the
+[one-page pitch](docs/internship_research_engineering_pitch.md).
+
 ## Artifacts
 
 | Artifact | Question | Public repo | One-command gate |
