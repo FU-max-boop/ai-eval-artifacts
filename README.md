@@ -12,6 +12,18 @@ For a concise overview aimed at research-engineering internships or research
 collaborations, see the
 [one-page pitch](docs/internship_research_engineering_pitch.md).
 
+## 30-Second Scan
+
+This portfolio is meant to show research-engineering ability, not just project
+names:
+
+- **Flagship agent artifact:** StateBind Guard tests whether coding-agent
+  handoffs preserve executable bindings, not only visible identifiers.
+- **Flagship LLM-eval artifact:** TraceUseAudit tests whether final answers
+  behaviorally depend on supplied traces, not only whether traces look correct.
+- **Shared quality bar:** every artifact has a runnable gate, a result card, and
+  a claim boundary that says what the evidence does not prove.
+
 ## Artifacts
 
 | Artifact | Question | Public repo | One-command gate |
